@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "SsEhzEJgjb+WGf1iPOkau4tpSwLEtNWk4MVuR2gN06g=",
+  "Source": "JobApplicationApi",
+  "BasePath": "_content/JobApplicationApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JobApplicationApi\\wwwroot",
+      "Source": "JobApplicationApi",
+      "ContentRoot": "C:\\Users\\USER\\JobApplicationApi\\wwwroot\\",
+      "BasePath": "_content/JobApplicationApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
